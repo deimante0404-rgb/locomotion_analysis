@@ -1,7 +1,7 @@
 # GyvūnųLokomotorinio aktyvumo analizė
 
 Šis kodas skirtas analizuoti gyvūnų (pelių) lokomotorinio aktyvumo duomenis, surinktus eksperimento metu skiriant skirtingas
-ketamino injekcijas (10 mg/kg, 20 mg/kg, 40 mg/kg). 
+vaisto injekcijas.
 
 1. Nuskaitomi IRS kanalo duomenys iš kiekvieno gyvūno
 2. Signalas suskaidomas į 6s langus
